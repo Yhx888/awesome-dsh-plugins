@@ -19,7 +19,7 @@
 
 ## 界面增强 / 面板
 
-- [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — 侧边栏完整工作台：文件渲染编辑/终端/Git/子代理，支持三方注册 Tab ⭐4542 · `dsh plugin add dsh-better-sidebar`
+- [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — 侧边栏完整工作台：文件渲染编辑/终端/Git/子代理，支持三方注册 Tab ⭐4543 · `dsh plugin add dsh-better-sidebar`
 - [dsh-side-panel](https://github.com/ccq1/dsh-side-panel) — 侧边栏集成文件浏览器、终端和 Git 审查 ⭐15 · `dsh plugin add @dsh-external/dsh-side-panel`
 - [dsh-focus-chat](https://github.com/dingyi222666/dsh-focus-chat) — 「聚焦会话」精简视图，只关注最终产出结果 ⭐21 · `dsh plugin add @dingyi222666/dsh-focus-chat`
 - [ui-status-label](https://github.com/alingalingling/ui-status-label) — 把鲸鱼娘思考时的 "deep diving" 状态文案自定义 ⭐51 · `dsh plugin add dsh-ui-status-label`
@@ -51,7 +51,7 @@
 ## 生成式 UI / 组件
 
 - [dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) — 对话内生成式 UI：模型把交互式 HTML 卡片直接画进会话流，带流式预览 ⭐319 · `dsh plugin add @dsh-external/dsh-visualize`
-- [dsh-genui](https://github.com/omdsh-dev/dsh-genui) — 助手回复内渲染交互式 UI 组件：布局、图表、表单、测验、mermaid、3D 场景 ⭐773 · `dsh plugin add @omdsh-dev/dsh-genui`
+- [dsh-genui](https://github.com/omdsh-dev/dsh-genui) — 助手回复内渲染交互式 UI 组件：布局、图表、表单、测验、mermaid、3D 场景 ⭐775 · `dsh plugin add @omdsh-dev/dsh-genui`
 - [web-components](https://github.com/omdsh-dev/web-components) — Web Components 支持 ⭐1 · `dsh plugin add @deepseek-ai/dsh-client-web-component`
 - [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) — OpenPencil 设计预览与编辑（Agent 操作真实设计画布） ⭐194 · `dsh plugin add @zseven-w/dsh-openpencil`
 
